@@ -1,4 +1,4 @@
-# Meca-482-Project
+# MECA-482-Project
 Furuta Pendulum 
 
 Spring 2022, California State University of Chico
