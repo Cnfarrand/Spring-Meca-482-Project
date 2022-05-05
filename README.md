@@ -14,4 +14,14 @@ Andrew Davis- Crystal Farrand- Brandon Loeb- Nickolas Hofmann
 - [6. References](#6-References)
 
 ## 1. Introduction
-The Furuta Pendulum was invented by Katsuhisa Furuta in 1992 and has since been a widely used tool for teaching the principles of control systems design. The device consists of a motor, which is mounted to a base, that rotates about the vertical axis, and an arm which is free to rotate about the horizontal axis. The arm and motor are connected by a horizontal rod that protrudes from the motor. The goal of this project is to devise a system capable of maintaining the arm balanced upright by controlling the rotation of the motor about the vertical axis.
+The Furuta Pendulum, a rotational inverted pendulum, was invented in 1992 at Tokyo Institute of Technology by Katsuhisa Furuta and his colleagues. 
+
+## 2. Modeling
+
+## 3. Sensor Calibration 
+
+## 4. Controller Design and Simulations 
+
+## 5. Appendix
+
+## 6. References 
