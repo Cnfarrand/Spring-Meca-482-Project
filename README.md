@@ -12,7 +12,7 @@ Andrew Davis- Crystal Farrand- Brandon Loeb- Nickolas Hofmann
 - [4. Controller Design and Simulations](#4-Controller_Design_and_Simulations)
 - [4.1. Balance Control](#4.1-Balance_Control)
 - [4.2. Swing-up Control](#4.2-Swing-up_Control)
-- [5. Controller Implementation:(Optional)](#5-Controller_Implementation:(Optional))
+- [5. Controller Implementation](#5-Controller_Implementation)
 - [6. References](#6-References)
 - [7. Appendix](#7-Appendix)
 - [7.1 Linearization](#7.1-Linearization)
@@ -38,7 +38,8 @@ This project does not include the physical implementation of the inverted pendul
 ## 4. Controller Design and Simulations 
 The conventions of the system listed above are not satisfactory to design the control system for the Furuta Pendulum. The needed information is listed below in Table 1. Table 1 describes the necessary specification pertaining to the control design and time-response requirements for the system. 
 
-## 5. Contoller Implementation:(Optional)
+## 5. Contoller Implementation
+(Optional)
 
 ## 6. References 
 
