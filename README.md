@@ -19,8 +19,7 @@ The Furuta Pendulum, a rotational inverted pendulum, was invented in 1992 at Tok
 
 ## 2. Modeling
 ##### Figure 2: Furuta Pendulum Conventions
-
-![](Figure%1.JPG)
+![Figure 2](https://user-images.githubusercontent.com/104535058/168445992-2a1bd987-6306-4cb4-b53e-5913ebe65b74.PNG)
 
 The diagram shown in Figure 2 above lists the conventions of the system. Based upon the variables listed, the angle 𝜃 lies between the rotary arm and the pendulum and the angle 𝛼 describes the inverted pendulum angle. The angle 𝛼 will be equal to zero when perfectly upright and balanced. Both angles are derived taking into account that a counterclockwise rotation will result in a positively increasing angle. A counterclockwise rotation occurs when the control voltage is positive. 
 
