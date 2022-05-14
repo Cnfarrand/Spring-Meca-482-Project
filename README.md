@@ -16,10 +16,10 @@ Andrew Davis- Crystal Farrand- Brandon Loeb- Nickolas Hofmann
 ## 1. Introduction
 The Furuta Pendulum, a rotational inverted pendulum, was invented in 1992 at Tokyo Institute of Technology by Katsuhisa Furuta and his colleagues. Often used to demonstrate nonlinear control laws, the inverted pendulum consists of a driving arm which rotates in the horizontal plane and the pendulum attached to that arm, which is free to rotate in the vertical plane. The objective of this project is to design and implement a state-feedback control system that will balance the pendulum in the upright, vertical position. This requires deriving a mathematical model of the Furuta Pendulum and a controller for the system which can be inputted into MATLAB. Coppliasim will then be used to create a simulated version of the system that can be linked back to MATLAB. Together, MATLAB will act as the controller of the Coppeliasim simulation. 
 
-##### Figure 1: Furuta Pendulum
+##### Figure 1
 
 ## 2. Modeling
-##### Figure 2: Furuta Pendulum Conventions
+##### Figure 2
 The diagram shown in Figure 2 above lists the conventions of the system. Based upon the variables listed, the angle 𝜃 lies between the rotary arm and the pendulum and the angle 𝛼 describes the inverted pendulum angle. The angle 𝛼 will be equal to zero when perfectly upright and balanced. Both angles are derived taking into account that a counterclockwise rotation will result in a positively increasing angle. A counterclockwise rotation occurs when the control voltage is positive. 
 
 Matlab pic
