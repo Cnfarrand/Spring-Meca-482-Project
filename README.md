@@ -28,8 +28,6 @@ The Furuta Pendulum, a rotational inverted pendulum, was invented in 1992 at Tok
 ##### Figure 2: Furuta Pendulum Conventions
 The diagram shown in Figure 2 above lists the conventions of the system. Based upon the variables listed, the angle 𝜃 lies between the rotary arm and the pendulum and the angle 𝛼 describes the inverted pendulum angle. The angle 𝛼 will be equal to zero when perfectly upright and balanced. Both angles are derived taking into account that a counterclockwise rotation will result in a positively increasing angle. A counterclockwise rotation occurs when the control voltage is positive. 
 
-Matlab pic
-
 ## 3. Sensor Calibration 
 This project does not include the physical implementation of the inverted pendulum and therefore does not need to be calibrated. Any physical system should be tested to ensure that the rotary arm angle and pendulum angle increases positivity when rotated counterclockwise as dictated by an applied positive voltage. These assumptions are based upon the model conventions declared above.
 
@@ -42,17 +40,16 @@ The conventions of the system listed above are not satisfactory to design the co
 
 Complimentary to the specifications of Table 1 above, the pendulum deflection and control effort requirements are to be satisfied when the rotary arm is tracking a 20 degree angle square wave.
 
-MATLAB code
-
 ## 4.2. Swing-up Control
 The concept of the swing up control is reliant on a nonlinear, energy based control scheme. The swing up control is implemented to get the pendulum from a downward vertical position to the upward position that is needed to initiate the balance control. 
-
-MATLAB code
 
 ## 5. Contoller Implementation
 (Optional)
 
 ## 6. References 
+Benjamin Seth Cazzolato, Zebb Prime, "On the Dynamics of the Furuta Pendulum", Journal of Control Science and Engineering, vol. 2011, Article ID 528341, 8 pages, 2011. https://doi.org/10.1155/2011/528341
+
+file:///C:/Users/Crystal%20Farrand/OneDrive/Documents/Meca%20482/Rotary_Pendulum_Workbook__Instructor_.pdf
 
 ## 7. Appendix
 [Appendix.pdf](https://github.com/Cnfarrand/Spring-Meca-482-Project/files/8693757/Appendix.pdf)
