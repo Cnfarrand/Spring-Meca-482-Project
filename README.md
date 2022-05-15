@@ -38,6 +38,8 @@ This project does not include the physical implementation of the inverted pendul
 The conventions of the system listed above are not satisfactory to design the control system for the Furuta Pendulum. The needed information is listed below in Table 1. Table 1 describes the necessary specification pertaining to the control design and time-response requirements for the system. 
 #### Table 1: Control Specifications
 
+![Table 1](https://user-images.githubusercontent.com/104535058/168490437-d3af9fa8-7d05-424f-adea-0d6a8ef4ab33.png)
+
 Complimentary to the specifications of Table 1 above, the pendulum deflection and control effort requirements are to be satisfied when the rotary arm is tracking a 20 degree angle square wave.
 
 MATLAB code
