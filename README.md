@@ -5,6 +5,8 @@ Spring 2022, California State University of Chico
 
 Andrew Davis- Crystal Farrand- Brandon Loeb- Nickolas Hofmann
 
+Project Overview: https://youtu.be/e9UO4Och8So
+
 ### Table of Contents
 - [1. Introduction](#1-Introduction)
 - [2. Modeling](#2-Modeling)
@@ -43,7 +45,7 @@ Complimentary to the specifications of Table 1 above, the pendulum deflection an
 ## 4.2. Swing-up Control
 The concept of the swing up control is reliant on a nonlinear, energy based control scheme. The swing up control is implemented to get the pendulum from a downward vertical position to the upward position that is needed to initiate the balance control. 
 
-## 5. Contoller Implementation
+## 5. Controller Implementation
 (Optional)
 
 ## 6. References 
